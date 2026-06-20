@@ -38,4 +38,20 @@ RedeemCommand – Command Dashboard
 - Emergency Dispatch
 - Traffic Management
 - Incident Reporting
-Architecture Diagram
+## Architecture Diagram
+
+![Architecture Diagram](‎My First Board (9).jpg‎)
+![Architecture Diagram](‎‎My First Board (6).jpg‎)
+
+
+##RedeemWays – Pilgrim App
+
+![Pilgrim App](images/pilgrim-app.png)
+
+## RedeemDrive – Driver App
+
+![Driver App](images/driver-app.png)
+
+## RedeemCommand Dashboard
+
+![Command Dashboard](images/dashboard.png)
