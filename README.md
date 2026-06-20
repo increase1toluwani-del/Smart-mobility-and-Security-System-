@@ -63,4 +63,4 @@ Team Coat
 
 Logo
 
-[Command Dashboard](file_000000005f0071f4bf608ec7c5144f98.png)
+[Logo](file_000000005f0071f4bf608ec7c5144f98.png)
