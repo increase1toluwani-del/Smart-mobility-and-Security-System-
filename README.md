@@ -60,3 +60,5 @@ Team member
 - Joseph Increase
 Team Coat
 - Nevup
+Logo
+file_000000005f0071f4bf608ec7c5144f98.png
