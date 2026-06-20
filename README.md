@@ -55,3 +55,8 @@ RedeemCommand – Command Dashboard
 ## RedeemCommand Dashboard
 
 ![Command Dashboard](Screenshot_20260619-044441.png)
+
+Team member 
+- Joseph Increase
+Team Coat
+- Nevup
