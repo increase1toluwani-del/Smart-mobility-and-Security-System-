@@ -46,12 +46,12 @@ RedeemCommand – Command Dashboard
 
 ##RedeemWays – Pilgrim App
 
-![Pilgrim App](images/pilgrim-app.png)
+![Pilgrim App](images/pilgrim-app.png-Screenshot_20260619-044902.png)
 
 ## RedeemDrive – Driver App
 
-![Driver App](images/driver-app.png)
+![Driver App](images/driver-Screenshot_20260619-044902.pngapp.png)
 
 ## RedeemCommand Dashboard
 
-![Command Dashboard](images/dashboard.png)
+![Command Dashboard](images/dashboaScreenshot_20260619-044441.pngrd.png)
