@@ -40,8 +40,8 @@ RedeemCommand – Command Dashboard
 - Incident Reporting
 ## Architecture Diagram
 
-![Architecture Diagram](My_First_Board _(9).jpg)
-![Architecture Diagram](‎‎My First Board (6).jpg)
+![Architecture Diagram](My_First_Board _(9).jpg).
+![Architecture Diagram](‎‎My_First_Board-(6).jpg).
 
 
 ##RedeemWays – Pilgrim App
