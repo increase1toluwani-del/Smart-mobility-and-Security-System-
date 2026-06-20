@@ -40,7 +40,7 @@ RedeemCommand – Command Dashboard
 - Incident Reporting
 ## Architecture Diagram
 
-![Architecture Diagram](‎My First Board (9).jpg‎)
+![Architecture Diagram].(‎My First Board (9).jpg‎)
 ![Architecture Diagram](‎‎My First Board (6).jpg‎)
 
 
